@@ -7,9 +7,9 @@ This project implements a multi-agent artificial intelligence (AI) system design
 
 - Routes to specialized agents:
 
- - Email Agent: Extracts sender, urgency, summary.
+  - Email Agent: Extracts sender, urgency, summary.
 
- - JSON Agent: Validates schema, normalizes invoice structure, flags missing fields.
+  - JSON Agent: Validates schema, normalizes invoice structure, flags missing fields.
 
 - Maintains shared context using memory (Redis or in-memory fallback).
 
