@@ -1,0 +1,10 @@
+From: john.doe@example.com
+Subject: Request for Quote
+
+Hi team,
+
+Please send the quote for 100 units.
+
+This is quite urgent.
+
+Thanks.

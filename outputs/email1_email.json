@@ -1,0 +1,6 @@
+{
+  "sender": "john.doe@example.com",
+  "urgency": "High",
+  "summary": "From: john.doe@example.com\nSubject: Request for Quote\n\nHi team,\n\nPlease send the quote for 100 units.\n\nThis is quite urgent.\n\nThanks.",
+  "timestamp": "2025-05-28T15:10:25.222302"
+}
